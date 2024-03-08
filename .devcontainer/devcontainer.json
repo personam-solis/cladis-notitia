@@ -8,33 +8,34 @@
   // Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/coverage-py:2": {},
-    "ghcr.io/devcontainers/features/python:1": {},
-		"ghcr.io/devcontainers/features/conda:1": {}
+        "ghcr.io/devcontainers/features/python:1": {},
+		"ghcr.io/devcontainers/features/conda:1": {},
+        "ghcr.io/devcontainers-contrib/features/bash-command:1": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "conda install -y boto3 psycopg2",
+    "postCreateCommand": "git maintenance start; git config --global column.ui auto; git config --global branch.sort -committerdate ; git config --global fetch-writeCommitGraph true ; git config --global core.untrackedcache true; git config --global core.fsmonitor true ; conda install -y psycopg2",
 
 	// Configure tool-specific properties.
-	"customizations": {
+    "customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {
-		  // Add the IDs of extensions you want installed when the container is created.
-		  "extensions": [
-      "ms-python.python",
-      "ms-python.vscode-pylance",
-      "ms-toolsai.jupyter",
-      "yzhang.markdown-all-in-one",
-      "VisualStudioExptTeam.vscodeintellicode",
-      "eamodio.gitlens",
-      "ms-toolsai.jupyter-keymap",
-      "ms-python.debugpy"
-		  ]
-		}
-	},
+		    // Add the IDs of extensions you want installed when the container is created.
+		    "extensions": [
+              "ms-python.python",
+              "ms-python.vscode-pylance",
+              "ms-toolsai.jupyter",
+              "yzhang.markdown-all-in-one",
+              "VisualStudioExptTeam.vscodeintellicode",
+              "eamodio.gitlens",
+              "ms-toolsai.jupyter-keymap",
+              "ms-python.debugpy"
+            ]
+        }
+    },
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root",
