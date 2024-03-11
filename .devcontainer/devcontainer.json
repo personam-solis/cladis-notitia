@@ -27,8 +27,6 @@
             "settings": {
                 "workbench.colorTheme": "Default Dark Modern",
                 "workbench.startupEditor": "none",
-                "python.linting.enabled": true,
-				"python.linting.pylintEnabled": true,
                 "security.workspace.trust.untrustedFiles": "open",
                 "editor.cursorStyle": "block",
                 "editor.minimap.enabled": false,
