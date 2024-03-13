@@ -1,4 +1,6 @@
-# **cladis-notitia**
+# **Cladis Notitia**
+
+**Cladis Notitia** is latin for "Disaster Information"
 
 Using publicly available data, gather information on natural disasters world-wide into a single repository.
 Data is gathered from multiple sources, parsed, then displayed as statistics.
