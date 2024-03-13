@@ -16,7 +16,7 @@ Below are the data sources, how the data is obtained, and the current licensing 
 | Source Name | Source Description | Method | Link | License/Terms |
 |-------------|--------------------|--------|------|---------------|
 | **FEMA** | OpenFEMA is the public’s resource data on multiple aspects of emergency management | API | [OpenFEMA](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2) | [Pulbic Data](https://www.fema.gov/about/openfema/terms-conditions) |
-| **GDACS** | GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters. | [XML File Download](https://gdacs.org/xml/rss.xml) | [GDACS](https://gdacs.org/) | [Public data for professional use](https://gdacs.org/About/termofuse.aspx) |
+| **GDACS** | GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters. | [XML File Download](https://gdacs.org/xml/rss.xml) | [GDACS](https://gdacs.org/) | [Professional, not general use](https://gdacs.org/About/termofuse.aspx) |
 | **EM-DAT** | EM-DAT contains data on the occurrence and impacts of over 26,000 mass disasters worldwide from 1900 to the present day. The database is compiled from various sources, including UN agencies, non-governmental organizations, reinsurance companies, research institutes, and press agencies | XLSX File Download | [EM-DAT](https://www.emdat.be/) | [Non-commercial Use](https://doc.emdat.be/docs/legal/terms-of-use/) |
 
 <br>
