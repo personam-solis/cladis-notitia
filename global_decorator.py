@@ -111,7 +111,7 @@ def log(func: Callable[..., Any]) -> Callable[..., Any]:
     return wrapper # Return the entire wrapper with function
 
 
-###### MAIN #######################
+####################### MAIN #######################
 
 if __name__ == "__main__":
 
