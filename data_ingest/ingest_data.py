@@ -4,6 +4,7 @@ import json
 from typing import AnyStr, Dict, List
 
 
+@gd.log
 def gdacs_pull(url: str) -> AnyStr:
     """
     Pull GDACS XML data from the URL and store it in memory
@@ -25,6 +26,7 @@ def gdacs_pull(url: str) -> AnyStr:
         print("Time out!\n{}".format(error))
 
 
+@gd.log
 def openfema_pull(url: str, from_date: str) -> List:
     """
     Pull openFEMA data from their API interface and store it in memory
