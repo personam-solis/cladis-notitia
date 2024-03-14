@@ -1,5 +1,6 @@
 import global_decorator as gd
 import requests
+import json
 from typing import AnyStr, Dict, List
 
 
@@ -11,13 +12,40 @@ def gdacs_pull(url: str) -> AnyStr:
         url (str): URL to pull data from
 
     Returns:
-        str: GDACS XML data
+        str: GDACS XML data un-formatted
     """
 
-    http_response = requests.get(url)
+    try:
+        http_response = requests.get(url)
+        http_response.raise_for_status()
+        return http_response.text
+    except requests.exceptions.HTTPError as error:
+        print("HTTP Error!\n{}".format(error.args[0]))
+    except requests.exceptions.ReadTimeout as error:
+        print("Time out!\n{}".format(error))
 
-    return http_response.text
 
+def openfema_pull(url: str, from_date: str) -> List:
+    """
+    Pull openFEMA data from their API interface and store it in memory
+
+    Args:
+        from_date (str): Start date of the data to be collected (YYYY-MM-DD)
+        url: Full API base URL
+
+    Returns:
+        list: OpenFEMA filtered data as a list with JSON dictionaries
+    """
+
+    try:
+        api_response = requests.get("{}?$filter=declarationDate gt {}&$format=jsona".format(
+            url, from_date))
+        api_response.raise_for_status()
+        return json.loads(api_response.text)
+    except requests.exceptions.HTTPError as error:
+        print("HTTP Error!\n{}".format(error.args[0]))
+    except requests.exceptions.ReadTimeout as error:
+        print("Time out!\n{}".format(error))
 
 
 # This module can only be imported
