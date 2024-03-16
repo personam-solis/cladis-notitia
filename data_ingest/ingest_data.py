@@ -6,7 +6,7 @@ import os
 from typing import AnyStr, Dict, List
 
 
-@gd.log
+# @gd.log
 def gdacs_pull(url: str) -> AnyStr:
     """
     Pull GDACS XML data from the URL and store it in memory
@@ -29,7 +29,7 @@ def gdacs_pull(url: str) -> AnyStr:
         print("Time out!\n{}".format(error))
 
 
-@gd.log
+# @gd.log
 def openfema_pull(url: str, from_date: str) -> List:
     """
     Pull openFEMA data from their API interface and store it in memory
@@ -54,7 +54,7 @@ def openfema_pull(url: str, from_date: str) -> List:
         print("Time out!\n{}".format(error))
 
 
-@gd.log
+# @gd.log
 def emdat_open(filename: str) -> csv.reader:
     """
     Open the EM-DAT CSV that is included in the repo. This is obtained manually

@@ -50,6 +50,7 @@ class TestEMDAT(unittest.TestCase):
     # Open the EM-DAT Dummy Data
     def test_open(self):
         self.emdat_csv = test_module.emdat_open(emdat_file)
+        print(self.emdat_csv)
 
 
 # Only run if executing, not import
