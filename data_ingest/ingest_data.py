@@ -1,9 +1,9 @@
 import global_decorator as gd
 import requests
 import json
-import csv
+import pandas as pd
 import os
-from typing import AnyStr, Dict, List
+from typing import AnyStr, Dict, List, Any
 
 
 # @gd.log
@@ -55,7 +55,7 @@ def openfema_pull(url: str, from_date: str) -> List:
 
 
 # @gd.log
-def emdat_open(filename: str) -> csv.reader:
+def emdat_open(filename: str) -> pd.core.frame.DataFrame:
     """
     Open the EM-DAT CSV that is included in the repo. This is obtained manually
     per European Union webpage requirements.
@@ -64,30 +64,25 @@ def emdat_open(filename: str) -> csv.reader:
         filename (str): Filename to import
 
     Returns:
-        _reader: CSV reader object
+        DataFrame: PANDAS Dataframe object
     """
 
     local_path = os.path.dirname(__file__)
     full_path = os.path.join(local_path, filename)
 
     try:
-        with open(full_path, 'r', newline='') as csvfile:
-            return csv.reader(csvfile, delimiter=',')
+        return pd.read_csv(filename, header=0, skip_blank_lines=True,
+                           parse_dates=True, date_format="%Y-%m-%d")
     except FileNotFoundError:
         print("FILE WAS NOT FOUND!\n{}".format(full_path))
 
-
-# This module can only be imported
-if __name__ == '__main__':
-
-    pass
 
 """
 ############################# MAIN #############################
 """
 
 
-# Only run if executing, not import
+# This module can only be imported
 if __name__ == '__main__':
 
     pass

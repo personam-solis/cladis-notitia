@@ -48,3 +48,4 @@ The CRED makes every effort to ensure, but cannot and does not guarantee, and ma
 Below are the packages that were installed outside the standard Python library
 
 * `requests`
+* `pandas`
