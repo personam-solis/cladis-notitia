@@ -1,0 +1,1096 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:gdacs="http://www.gdacs.org" xmlns:glide="http://glidenumber.net" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDACS RSS information</title>
+    <link>https://www.gdacs.org/</link>
+    <copyright>public domain</copyright>
+    <description>Near real-time alerts about natural disaster with a potential humanitarian impact</description>
+    <managingEditor>stefano.paris@ext.ec.europa.eu</managingEditor>
+    <!--Records number 135-->
+    <!--Start 3/16/2024 5:35:02 PM-->
+    <!--=Start 3/16/2024 5:35:02 PM-->
+    <webMaster>stefano.paris@ext.ec.europa.eu</webMaster>
+    <pubDate>Sat, 16 Mar 2024 16:35:02 GMT</pubDate>
+    <atom:link href="https://www.gdacs.org/xml/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green earthquake alert (Magnitude 5.5M, Depth:10km) in [unknown] 16/03/2024 00:14 UTC, No people affected in 100km.</title>
+      <description>On 3/16/2024 12:14:52 AM, an earthquake occurred in [unknown] potentially affecting No people affected in 100km. The earthquake had Magnitude 5.5M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1559303_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419713</link>
+      <pubDate>Sat, 16 Mar 2024 00:35:32 GMT</pubDate>
+      <gdacs:dateadded>Sat, 16 Mar 2024 00:35:32 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 02:50:22 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Sat, 16 Mar 2024 00:14:52 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 00:14:52 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419713</guid>
+      <geo:Point>
+        <geo:lat>-58.917</geo:lat>
+        <geo:long>158.3627</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>154.3627 162.3627 -62.917 -54.917</gdacs:bbox>
+      <georss:point>-58.917 158.3627</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419713/cap_1419713.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419713</gdacs:eventid>
+      <gdacs:episodeid>1559303</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.5">Magnitude 5.5M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="in MMI -" value="0" />
+      <gdacs:vulnerability value="1.3145341380124" />
+      <gdacs:iso3 />
+      <gdacs:country />
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419713/rss_1419713.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green alert for tropical cyclone MEGAN-24. Population affected by Category 1 (120 km/h) wind speeds or higher is 12 .</title>
+      <description>From 15/03/2024 to 16/03/2024, a Tropical Storm (maximum wind speed of 130 km/h) MEGAN-24 was active in NTerritory. The cyclone affects these countries: Australia (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 12 .</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/tc/1001056/1001056_5_tn.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001056</link>
+      <pubDate>Fri, 15 Mar 2024 14:21:56 GMT</pubDate>
+      <gdacs:dateadded>Fri, 15 Mar 2024 14:21:56 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 14:35:07 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Fri, 15 Mar 2024 12:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 12:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>TC1</dc:subject>
+      <guid isPermaLink="false">TC1001056</guid>
+      <geo:Point>
+        <geo:lat>-14.5</geo:lat>
+        <geo:long>137.6</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>124.157286617746 150.157286617746 -27.318749064776 -1.31874906477603</gdacs:bbox>
+      <georss:point>-14.5 137.6</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/TC/1001056/cap_1001056.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/TC.png</gdacs:icon>
+      <gdacs:version>5</gdacs:version>
+      <gdacs:eventtype>TC</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname>MEGAN-24</gdacs:eventname>
+      <gdacs:eventid>1001056</gdacs:eventid>
+      <gdacs:episodeid>5</gdacs:episodeid>
+      <gdacs:calculationtype>tropicalcyclonewithstormsurge</gdacs:calculationtype>
+      <gdacs:severity unit="km/h" value="129.6288">Tropical Storm (maximum wind speed of 130 km/h)</gdacs:severity>
+      <gdacs:population unit="Pop74" value="12">Population affected by Category 1 (120 km/h) wind speeds or higher is 12 </gdacs:population>
+      <gdacs:vulnerability value="1">Low</gdacs:vulnerability>
+      <gdacs:iso3>AUS</gdacs:iso3>
+      <gdacs:country>Australia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/TC/1001056/rss_1001056.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.6M, Depth:10km) in Japan 15/03/2024 10:32 UTC, 70 thousand in 100km.</title>
+      <description>On 3/15/2024 10:32:48 AM, an earthquake occurred in Japan potentially affecting 70 thousand in 100km. The earthquake had Magnitude 5.6M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1559162_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419643</link>
+      <pubDate>Fri, 15 Mar 2024 10:52:55 GMT</pubDate>
+      <gdacs:dateadded>Fri, 15 Mar 2024 10:52:55 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 10:42:09 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Fri, 15 Mar 2024 10:32:48 GMT</gdacs:fromdate>
+      <gdacs:todate>Fri, 15 Mar 2024 10:32:48 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419643</guid>
+      <geo:Point>
+        <geo:lat>28.4231</geo:lat>
+        <geo:long>130.1337</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>126.1337 134.1337 24.4231 32.4231</gdacs:bbox>
+      <georss:point>28.4231 130.1337</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419643/cap_1419643.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419643</gdacs:eventid>
+      <gdacs:episodeid>1559162</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.6">Magnitude 5.6M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="in MMI&amp;&gt;=V" value="8108">8 thousand in MMI&amp;&gt;=V</gdacs:population>
+      <gdacs:vulnerability value="1.3145341380124" />
+      <gdacs:iso3>JPN</gdacs:iso3>
+      <gdacs:country>Japan</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419643/rss_1419643.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 6M, Depth:10km) in [unknown] 14/03/2024 21:10 UTC, No people affected in 100km.</title>
+      <description>On 3/14/2024 9:10:25 PM, an earthquake occurred in [unknown] potentially affecting No people affected in 100km. The earthquake had Magnitude 6M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1559077_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419579</link>
+      <pubDate>Thu, 14 Mar 2024 21:27:51 GMT</pubDate>
+      <gdacs:dateadded>Thu, 14 Mar 2024 21:27:51 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Fri, 15 Mar 2024 21:41:22 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Thu, 14 Mar 2024 21:10:25 GMT</gdacs:fromdate>
+      <gdacs:todate>Thu, 14 Mar 2024 21:10:25 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419579</guid>
+      <geo:Point>
+        <geo:lat>29.8318</geo:lat>
+        <geo:long>-42.6621</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>-46.6621 -38.6621 25.8318 33.8318</gdacs:bbox>
+      <georss:point>29.8318 -42.6621</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419579/cap_1419579.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419579</gdacs:eventid>
+      <gdacs:episodeid>1559077</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="6">Magnitude 6M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="in MMI -" value="0" />
+      <gdacs:vulnerability value="1.3145341380124" />
+      <gdacs:iso3 />
+      <gdacs:country />
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419579/rss_1419579.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.6M, Depth:53.085km) in Japan 14/03/2024 15:14 UTC, 2.4 million in 100km.</title>
+      <description>On 3/14/2024 3:14:36 PM, an earthquake occurred in Japan potentially affecting 2.4 million in 100km. The earthquake had Magnitude 5.6M, Depth:53.085km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1559047_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419552</link>
+      <pubDate>Thu, 14 Mar 2024 15:34:58 GMT</pubDate>
+      <gdacs:dateadded>Thu, 14 Mar 2024 15:34:58 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Fri, 15 Mar 2024 15:42:01 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Thu, 14 Mar 2024 15:14:36 GMT</gdacs:fromdate>
+      <gdacs:todate>Thu, 14 Mar 2024 15:14:36 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419552</guid>
+      <geo:Point>
+        <geo:lat>37.1035</geo:lat>
+        <geo:long>141.1426</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>137.1426 145.1426 33.1035 41.1035</gdacs:bbox>
+      <georss:point>37.1035 141.1426</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419552/cap_1419552.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419552</gdacs:eventid>
+      <gdacs:episodeid>1559047</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.6">Magnitude 5.6M, Depth:53.1km</gdacs:severity>
+      <gdacs:population unit="in MMI IV" value="1014391">1 million in MMI IV</gdacs:population>
+      <gdacs:vulnerability value="1.3145341380124" />
+      <gdacs:iso3>JPN</gdacs:iso3>
+      <gdacs:country>Japan</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419552/rss_1419552.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.5M, Depth:10km) in [unknown] 13/03/2024 20:06 UTC, No people affected in 100km.</title>
+      <description>On 3/13/2024 8:06:33 PM, an earthquake occurred in [unknown] potentially affecting No people affected in 100km. The earthquake had Magnitude 5.5M, Depth:10km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1558896_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419429</link>
+      <pubDate>Wed, 13 Mar 2024 20:25:12 GMT</pubDate>
+      <gdacs:dateadded>Wed, 13 Mar 2024 20:25:12 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Thu, 14 Mar 2024 20:41:42 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Wed, 13 Mar 2024 20:06:33 GMT</gdacs:fromdate>
+      <gdacs:todate>Wed, 13 Mar 2024 20:06:33 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419429</guid>
+      <geo:Point>
+        <geo:lat>-49.6552</geo:lat>
+        <geo:long>125.9332</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>121.9332 129.9332 -53.6552 -45.6552</gdacs:bbox>
+      <georss:point>-49.6552 125.9332</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419429/cap_1419429.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419429</gdacs:eventid>
+      <gdacs:episodeid>1558896</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.5">Magnitude 5.5M, Depth:10km</gdacs:severity>
+      <gdacs:population unit="in MMI -" value="0" />
+      <gdacs:vulnerability value="1.3145341380124" />
+      <gdacs:iso3 />
+      <gdacs:country />
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419429/rss_1419429.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 5.8M, Depth:26.46km) in Indonesia 13/03/2024 18:56 UTC, No people affected in 100km.</title>
+      <description>On 3/13/2024 6:56:13 PM, an earthquake occurred in Indonesia potentially affecting No people affected in 100km. The earthquake had Magnitude 5.8M, Depth:26.46km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1558889_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419424</link>
+      <pubDate>Wed, 13 Mar 2024 19:15:58 GMT</pubDate>
+      <gdacs:dateadded>Wed, 13 Mar 2024 19:15:58 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Thu, 14 Mar 2024 19:41:52 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Wed, 13 Mar 2024 18:56:13 GMT</gdacs:fromdate>
+      <gdacs:todate>Wed, 13 Mar 2024 18:56:13 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419424</guid>
+      <geo:Point>
+        <geo:lat>-0.1127</geo:lat>
+        <geo:long>125.2136</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>121.2136 129.2136 -4.1127 3.8873</gdacs:bbox>
+      <georss:point>-0.1127 125.2136</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419424/cap_1419424.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419424</gdacs:eventid>
+      <gdacs:episodeid>1558889</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="5.8">Magnitude 5.8M, Depth:26.5km</gdacs:severity>
+      <gdacs:population unit="in MMI IV" value="71230">70 thousand in MMI IV</gdacs:population>
+      <gdacs:vulnerability value="1.3145341380124" />
+      <gdacs:iso3>IDN</gdacs:iso3>
+      <gdacs:country>Indonesia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419424/rss_1419424.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green earthquake alert (Magnitude 6M, Depth:50.416km) in Papua New Guinea 13/03/2024 15:13 UTC, 250 thousand in 100km.</title>
+      <description>On 3/13/2024 3:13:23 PM, an earthquake occurred in Papua New Guinea potentially affecting 250 thousand in 100km. The earthquake had Magnitude 6M, Depth:50.416km.</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/eq/eq1558869_1.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1419410</link>
+      <pubDate>Wed, 13 Mar 2024 15:29:19 GMT</pubDate>
+      <gdacs:dateadded>Wed, 13 Mar 2024 15:29:19 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Thu, 14 Mar 2024 15:41:42 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Wed, 13 Mar 2024 15:13:23 GMT</gdacs:fromdate>
+      <gdacs:todate>Wed, 13 Mar 2024 15:13:23 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>EQ1</dc:subject>
+      <guid isPermaLink="false">EQ1419410</guid>
+      <geo:Point>
+        <geo:lat>-5.8705</geo:lat>
+        <geo:long>150.6344</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>146.6344 154.6344 -9.8705 -1.8705</gdacs:bbox>
+      <georss:point>-5.8705 150.6344</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/EQ/1419410/cap_1419410.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/EQ.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>EQ</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>0</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1419410</gdacs:eventid>
+      <gdacs:episodeid>1558869</gdacs:episodeid>
+      <gdacs:calculationtype>earthquakeonly</gdacs:calculationtype>
+      <gdacs:severity unit="M" value="6">Magnitude 6M, Depth:50.4km</gdacs:severity>
+      <gdacs:population unit="in MMI V" value="13431">10 thousand in MMI V</gdacs:population>
+      <gdacs:vulnerability value="1.78228028098837" />
+      <gdacs:iso3>PNG</gdacs:iso3>
+      <gdacs:country>Papua New Guinea</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/EQ/1419410/rss_1419410.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in Burkina Faso</title>
+      <description>On 13/03/2024, a forest fire started in Burkina Faso,  until 15/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019463</link>
+      <pubDate>Fri, 15 Mar 2024 09:15:07 GMT</pubDate>
+      <gdacs:dateadded>Fri, 15 Mar 2024 09:15:07 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:15:06 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Wed, 13 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Fri, 15 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019463</guid>
+      <geo:Point>
+        <geo:lat>12.850059365059613</geo:lat>
+        <geo:long>-0.54235715828704389</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>-4.54235715828704 3.45764284171296 8.85005936505961 16.8500593650596</gdacs:bbox>
+      <georss:point>12.850059365059613 -0.54235715828704389</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019463/cap_1019463.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019463</gdacs:eventid>
+      <gdacs:episodeid>2</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="5246">Green impact for forestfire in 5246 ha</gdacs:severity>
+      <gdacs:population unit="" value="4749">4749 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>BFA</gdacs:iso3>
+      <gdacs:country>Burkina Faso</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019463/rss_1019463.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in Venezuela</title>
+      <description>On 13/03/2024, a forest fire started in Venezuela,  until 16/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019451</link>
+      <pubDate>Thu, 14 Mar 2024 09:15:07 GMT</pubDate>
+      <gdacs:dateadded>Thu, 14 Mar 2024 09:15:07 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:15:12 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Wed, 13 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019451</guid>
+      <geo:Point>
+        <geo:lat>7.6873061670732952</geo:lat>
+        <geo:long>-67.512639940825764</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>-71.5126399408258 -63.5126399408258 3.6873061670733 11.6873061670733</gdacs:bbox>
+      <georss:point>7.6873061670732952 -67.512639940825764</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019451/cap_1019451.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019451</gdacs:eventid>
+      <gdacs:episodeid>3</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="7780">Green impact for forestfire in 7780 ha</gdacs:severity>
+      <gdacs:population unit="" value="212">212 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>VEN</gdacs:iso3>
+      <gdacs:country>Venezuela</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019451/rss_1019451.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green flood alert in Mexico</title>
+      <description>On 12/03/2024, a flood started in Mexico, lasting until 14/03/2024 (last update). The flood caused 0 deaths and 0 displaced .</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2024_1102520.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1102520</link>
+      <pubDate>Thu, 14 Mar 2024 06:33:56 GMT</pubDate>
+      <gdacs:dateadded>Thu, 14 Mar 2024 06:33:56 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Thu, 14 Mar 2024 06:33:56 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 01:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Thu, 14 Mar 2024 01:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>FL1</dc:subject>
+      <guid isPermaLink="false">FL1102520</guid>
+      <geo:Point>
+        <geo:lat>17.0604663</geo:lat>
+        <geo:long>-96.7253575</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>-100.7253575 -92.7253575 13.0604663 21.0604663</gdacs:bbox>
+      <georss:point>17.0604663 -96.7253575</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/FL/1102520/cap_1102520.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/FL.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>FL</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1102520</gdacs:eventid>
+      <gdacs:episodeid>1</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="" value="0">Magnitude 0 </gdacs:severity>
+      <gdacs:population unit="Population Affected" value="0">0 deaths </gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>MEX</gdacs:iso3>
+      <gdacs:country>Mexico</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/FL/1102520/rss_1102520.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green flood alert in Mozambique</title>
+      <description>On 12/03/2024, a flood started in Mozambique, lasting until 14/03/2024 (last update). The flood caused 1 deaths and 0 displaced .</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2024_1102521.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1102521</link>
+      <pubDate>Thu, 14 Mar 2024 08:04:32 GMT</pubDate>
+      <gdacs:dateadded>Thu, 14 Mar 2024 08:04:32 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Thu, 14 Mar 2024 08:04:32 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 01:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Thu, 14 Mar 2024 01:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>FL1</dc:subject>
+      <guid isPermaLink="false">FL1102521</guid>
+      <geo:Point>
+        <geo:lat>-22.779116</geo:lat>
+        <geo:long>34.5661741</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>30.5661741 38.5661741 -26.779116 -18.779116</gdacs:bbox>
+      <georss:point>-22.779116 34.5661741</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/FL/1102521/cap_1102521.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/FL.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>FL</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1102521</gdacs:eventid>
+      <gdacs:episodeid>1</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="" value="0">Magnitude 0 </gdacs:severity>
+      <gdacs:population unit="Population Affected" value="1">1 deaths </gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>MOZ</gdacs:iso3>
+      <gdacs:country>Mozambique</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/FL/1102521/rss_1102521.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green flood alert in Papua New Guinea</title>
+      <description>On 12/03/2024, a flood started in Papua New Guinea, lasting until 14/03/2024 (last update). The flood caused 0 deaths and 0 displaced .</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2024_1102522.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1102522</link>
+      <pubDate>Fri, 15 Mar 2024 06:34:41 GMT</pubDate>
+      <gdacs:dateadded>Fri, 15 Mar 2024 06:34:41 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Fri, 15 Mar 2024 06:34:41 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 01:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Thu, 14 Mar 2024 01:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>FL1</dc:subject>
+      <guid isPermaLink="false">FL1102522</guid>
+      <geo:Point>
+        <geo:lat>-6.0730028</geo:lat>
+        <geo:long>145.3932891</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>141.3932891 149.3932891 -10.0730028 -2.0730028</gdacs:bbox>
+      <georss:point>-6.0730028 145.3932891</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/FL/1102522/cap_1102522.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/FL.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>FL</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1102522</gdacs:eventid>
+      <gdacs:episodeid>1</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="" value="0">Magnitude 0 </gdacs:severity>
+      <gdacs:population unit="Population Affected" value="0">0 deaths </gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>PNG</gdacs:iso3>
+      <gdacs:country>Papua New Guinea</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/FL/1102522/rss_1102522.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in Australia</title>
+      <description>On 12/03/2024, a forest fire started in Australia,  until 16/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019422</link>
+      <pubDate>Wed, 13 Mar 2024 09:15:06 GMT</pubDate>
+      <gdacs:dateadded>Wed, 13 Mar 2024 09:15:06 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:15:37 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>1</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019422</guid>
+      <geo:Point>
+        <geo:lat>-20.272826007084596</geo:lat>
+        <geo:long>138.87754430541111</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>134.877544305411 142.877544305411 -24.2728260070846 -16.2728260070846</gdacs:bbox>
+      <georss:point>-20.272826007084596 138.87754430541111</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019422/cap_1019422.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019422</gdacs:eventid>
+      <gdacs:episodeid>4</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="6294">Green impact for forestfire in 6294 ha</gdacs:severity>
+      <gdacs:population unit="" value="0">0 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>AUS</gdacs:iso3>
+      <gdacs:country>Australia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019422/rss_1019422.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in Australia</title>
+      <description>On 12/03/2024, a forest fire started in Australia,  until 16/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019423</link>
+      <pubDate>Wed, 13 Mar 2024 09:15:18 GMT</pubDate>
+      <gdacs:dateadded>Wed, 13 Mar 2024 09:15:18 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:15:49 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>1</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019423</guid>
+      <geo:Point>
+        <geo:lat>-20.175415456770292</geo:lat>
+        <geo:long>139.05080430258667</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>135.050804302587 143.050804302587 -24.1754154567703 -16.1754154567703</gdacs:bbox>
+      <georss:point>-20.175415456770292 139.05080430258667</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019423/cap_1019423.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019423</gdacs:eventid>
+      <gdacs:episodeid>4</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="7222">Green impact for forestfire in 7222 ha</gdacs:severity>
+      <gdacs:population unit="" value="0">0 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>AUS</gdacs:iso3>
+      <gdacs:country>Australia</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019423/rss_1019423.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in Argentina</title>
+      <description>On 12/03/2024, a forest fire started in Argentina,  until 16/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019479</link>
+      <pubDate>Sat, 16 Mar 2024 09:16:03 GMT</pubDate>
+      <gdacs:dateadded>Sat, 16 Mar 2024 09:16:03 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:16:03 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>1</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019479</guid>
+      <geo:Point>
+        <geo:lat>-25.491136546799808</geo:lat>
+        <geo:long>-58.217483173933395</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>-62.2174831739334 -54.2174831739334 -29.4911365467998 -21.4911365467998</gdacs:bbox>
+      <georss:point>-25.491136546799808 -58.217483173933395</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019479/cap_1019479.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019479</gdacs:eventid>
+      <gdacs:episodeid>1</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="11067">Green impact for forestfire in 11067 ha</gdacs:severity>
+      <gdacs:population unit="" value="5">5 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>ARG</gdacs:iso3>
+      <gdacs:country>Argentina</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019479/rss_1019479.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in China</title>
+      <description>On 12/03/2024, a forest fire started in China,  until 15/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019464</link>
+      <pubDate>Fri, 15 Mar 2024 09:15:28 GMT</pubDate>
+      <gdacs:dateadded>Fri, 15 Mar 2024 09:15:28 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:16:10 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Fri, 15 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019464</guid>
+      <geo:Point>
+        <geo:lat>46.970894725004761</geo:lat>
+        <geo:long>123.59896057310355</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>119.598960573104 127.598960573104 42.9708947250048 50.9708947250048</gdacs:bbox>
+      <georss:point>46.970894725004761 123.59896057310355</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019464/cap_1019464.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019464</gdacs:eventid>
+      <gdacs:episodeid>2</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="5895">Green impact for forestfire in 5895 ha</gdacs:severity>
+      <gdacs:population unit="" value="1345">1345 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>CHN</gdacs:iso3>
+      <gdacs:country>China</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019464/rss_1019464.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green forest fire alert in India, Bangladesh</title>
+      <description>On 12/03/2024, a forest fire started in India, Bangladesh,  until 15/03/2024.</description>
+      <enclosure type="image/png" length="1" url="" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=WF&amp;eventid=1019478</link>
+      <pubDate>Sat, 16 Mar 2024 09:15:24 GMT</pubDate>
+      <gdacs:dateadded>Sat, 16 Mar 2024 09:15:24 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 09:15:24 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Tue, 12 Mar 2024 00:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Fri, 15 Mar 2024 00:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>WF1</dc:subject>
+      <guid isPermaLink="false">WF1019478</guid>
+      <geo:Point>
+        <geo:lat>23.315880684533088</geo:lat>
+        <geo:long>92.429478967644286</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>88.4294789676443 96.4294789676443 19.3158806845331 27.3158806845331</gdacs:bbox>
+      <georss:point>23.315880684533088 92.429478967644286</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/WF/1019478/cap_1019478.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/WF.png</gdacs:icon>
+      <gdacs:version>0</gdacs:version>
+      <gdacs:eventtype>WF</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1019478</gdacs:eventid>
+      <gdacs:episodeid>1</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="ha" value="5360">Green impact for forestfire in 5360 ha</gdacs:severity>
+      <gdacs:population unit="" value="1473">1473 people affected in the area</gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>IND</gdacs:iso3>
+      <gdacs:country>India, Bangladesh</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/WF/1019478/rss_1019478.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green alert for tropical cyclone EIGHTEEN-24. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (3049 in Tropical Storm).</title>
+      <description>From 11/03/2024 to 16/03/2024, a Tropical Storm (maximum wind speed of 102 km/h) EIGHTEEN-24 was active in SEIndian. The cyclone affects these countries: Christmas Island (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (3049 in tropical storm).</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/tc/1001055/1001055_22_tn.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001055</link>
+      <pubDate>Mon, 11 Mar 2024 09:36:50 GMT</pubDate>
+      <gdacs:dateadded>Mon, 11 Mar 2024 09:36:50 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Sat, 16 Mar 2024 15:50:07 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>true</gdacs:iscurrent>
+      <gdacs:fromdate>Mon, 11 Mar 2024 06:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Sat, 16 Mar 2024 12:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>1</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>TC1</dc:subject>
+      <guid isPermaLink="false">TC1001055</guid>
+      <geo:Point>
+        <geo:lat>-17</geo:lat>
+        <geo:long>113.9</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>93.3869873526897 119.38698735269 -26.7715204905215 -0.771520490521491</gdacs:bbox>
+      <georss:point>-17 113.9</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/TC/1001055/cap_1001055.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/TC.png</gdacs:icon>
+      <gdacs:version>22</gdacs:version>
+      <gdacs:eventtype>TC</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname>EIGHTEEN-24</gdacs:eventname>
+      <gdacs:eventid>1001055</gdacs:eventid>
+      <gdacs:episodeid>22</gdacs:episodeid>
+      <gdacs:calculationtype>tropicalcyclonewithstormsurge</gdacs:calculationtype>
+      <gdacs:severity unit="km/h" value="101.8512">Tropical Storm (maximum wind speed of 102 km/h)</gdacs:severity>
+      <gdacs:population unit="Pop74" value="0">Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (3049 in Tropical Storm)</gdacs:population>
+      <gdacs:vulnerability value="1">Low</gdacs:vulnerability>
+      <gdacs:iso3>CXR</gdacs:iso3>
+      <gdacs:country>Christmas Island</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/TC/1001055/rss_1001055.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+    <item>
+      <title>Green flood alert in Uruguay</title>
+      <description>On 11/03/2024, a flood started in Uruguay, lasting until 12/03/2024 (last update). The flood caused 0 deaths and 0 displaced .</description>
+      <enclosure type="image/png" length="1" url="https://www.gdacs.org/contentdata/resources/imgtemp/gdacs/fl/dfo2024_1102524.png" />
+      <gdacs:temporary>false</gdacs:temporary>
+      <link>https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1102524</link>
+      <pubDate>Fri, 15 Mar 2024 07:24:05 GMT</pubDate>
+      <gdacs:dateadded>Fri, 15 Mar 2024 07:24:05 GMT</gdacs:dateadded>
+      <gdacs:datemodified>Fri, 15 Mar 2024 07:24:05 GMT</gdacs:datemodified>
+      <gdacs:iscurrent>false</gdacs:iscurrent>
+      <gdacs:fromdate>Mon, 11 Mar 2024 01:00:00 GMT</gdacs:fromdate>
+      <gdacs:todate>Tue, 12 Mar 2024 01:00:00 GMT</gdacs:todate>
+      <gdacs:durationinweek>0</gdacs:durationinweek>
+      <gdacs:year>2024</gdacs:year>
+      <dc:subject>FL1</dc:subject>
+      <guid isPermaLink="false">FL1102524</guid>
+      <geo:Point>
+        <geo:lat>-34.9058916</geo:lat>
+        <geo:long>-56.1913095</geo:long>
+      </geo:Point>
+      <!--gdacs:bbox format = lonmin lonmax latmin latmax-->
+      <gdacs:bbox>-60.1913095 -52.1913095 -38.9058916 -30.9058916</gdacs:bbox>
+      <georss:point>-34.9058916 -56.1913095</georss:point>
+      <gdacs:cap>https://www.gdacs.org/contentdata/resources/FL/1102524/cap_1102524.xml</gdacs:cap>
+      <gdacs:icon>https://www.gdacs.org/Images/gdacs_icons/alerts/Green/FL.png</gdacs:icon>
+      <gdacs:version>1</gdacs:version>
+      <gdacs:eventtype>FL</gdacs:eventtype>
+      <gdacs:alertlevel>Green</gdacs:alertlevel>
+      <gdacs:alertscore>1</gdacs:alertscore>
+      <gdacs:episodealertlevel>Green</gdacs:episodealertlevel>
+      <gdacs:episodealertscore>1</gdacs:episodealertscore>
+      <gdacs:eventname />
+      <gdacs:eventid>1102524</gdacs:eventid>
+      <gdacs:episodeid>1</gdacs:episodeid>
+      <gdacs:calculationtype />
+      <gdacs:severity unit="" value="0">Magnitude 0 </gdacs:severity>
+      <gdacs:population unit="Population Affected" value="0">0 deaths </gdacs:population>
+      <gdacs:vulnerability value="0" />
+      <gdacs:iso3>URY</gdacs:iso3>
+      <gdacs:country>Uruguay</gdacs:country>
+      <gdacs:glide />
+      <gdacs:mapimage />
+      <gdacs:maplink />
+      <gdacs:gtsimage />
+      <gdacs:gtslink />
+      <gdacs:resources>
+        <gdacs:resource id="event_rss" version="0" source="EC-JRC" url="https://www.gdacs.org//datareport/resources/FL/1102524/rss_1102524.xml" type="rss">
+          <gdacs:title>Event in rss format</gdacs:title>
+          <gdacs:description>Joint Research Center of the European Commission</gdacs:description>
+          <gdacs:acknowledgements>Copyright European Union. Syndication allowed, provided the source is acknowledged.</gdacs:acknowledgements>
+          <gdacs:accesslevel>Public</gdacs:accesslevel>
+        </gdacs:resource>
+      </gdacs:resources>
+    </item>
+  </channel>
+</rss><!--End 3/16/2024 5:35:13 PM-->

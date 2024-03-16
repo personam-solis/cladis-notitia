@@ -41,6 +41,60 @@ The CRED makes every effort to ensure, but cannot and does not guarantee, and ma
 
 <br>
 
+### **Data Source Attributes**
+
+These are all the relevant attributes from all data sources along with a brief description.
+
+**FEMA:**
+* `state` - X
+* `declarationDate` - Date of entry (YYYY-MM-DD`T`hh:mm:ss.nnn`Z`)
+* `incidentType` - The type of incident (Fire, Flood)
+* `incidentBeginDate` - Start date of disaster (YYYY-MM-DD`T`hh:mm:ss.nnn`Z`)
+* `incidentEndDate` - End date of disaster (YYYY-MM-DD`T`hh:mm:ss.nnn`Z`)
+
+<br>
+
+**GDACS:**
+* `gdacs:dateadded` - When the entry was first recorded (DOW, DD Mmm YYYY HH:MM:SS TZ)
+* `gdacs:datemodified` - When the record was updated (DOW, DD Mmm YYYY HH:MM:SS TZ)
+* `gdacs:fromdate` - Start date of disaster (DOW, DD Mmm YYYY HH:MM:SS TZ)
+* `gdacs:todate` - End date of disaster (DOW, DD Mmm YYYY HH:MM:SS TZ)
+* `geo:lat` - Latitude location in Decimal Degrees
+* `geo:long` - Longitude location in Decimal Degrees
+* `gdacs:eventtype` - GDACS Code for the event (requires reference)
+* `gdacs:severity` - Severity unit of measurement and value
+* `gdacs:iso3` - Three digit Country Name (ISO3)
+* `gdacs:country` - Name of Country
+* `gdacs:population` - Population affected by the disaster
+
+<br>
+
+**EM-DAT:**
+* `Disaster Group` - Natural Disaster or not
+* `Disaster Subgroup` - Disaster Group Subtype (Geophysical, Hydrological, Climatological)
+* `Disaster Type` - The Major Type of disaster (Drought, Flood, Storm, Earthquake)
+* `Disaster Subtype` - The specific disaster type (Land Fire, Cold wave, Tropical Cyclone)
+* `ISO` - Three digit Country Name (ISO3)
+* `Country` - Name of Country
+* `Location` - Description of location
+* `Magnitude` - Severity of the disaster as an integer or floating point
+* `Magnitude Scale` - The unit of measurement for the disaster (Richter, Kph, Vaccinated)
+* `Latitude` - Latitude location in Decimal Degrees
+* `Longitude` - Longitude location in Decimal Degrees
+* `Start Year` - Year (YYYY)
+* `Start Month` - Month (M)
+* `Start Day` - Day (D)
+* `End Year` - Year (YYYY)
+* `End Month` - Month (M)
+* `End Day` - Day (D)
+* `Total Deaths` - Total number of lives lost during the disaster
+* `Total Affected` - Number of people that were injured affected, and homeless
+* `Reconstruction Costs ('000 US$)` - Costs in USD to rebuild
+* `Entry Date` - When the entry was first recorded (YYYY-MM-DD)
+* `Last Update` - When the record was updated (YYYY-MM-DD)
+
+<br>
+
 <br>
 
 ## **Python Packages**
