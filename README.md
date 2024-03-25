@@ -103,3 +103,4 @@ Below are the packages that were installed outside the standard Python library
 
 * `requests`
 * `pandas`
+* `docker`
