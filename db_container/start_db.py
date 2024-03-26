@@ -31,11 +31,12 @@ class ContainerCreate:
             except docker.errors.APIError:
                 print("docker api was unable to create the volume!".upper())
 
-    def create_db(self, container_name: str, pgpass: str, local_port=5455):
+    def create_db(self, container_name: str, pgpass: str, volume_name: str, local_port=5455):
         """
         Create a container that initializes the database for first use.
 
         Args:
+            volume_name (str): Name of the volume to create
             pgpass (str): Password for the postgres account
             container_name (str): Name of the container
             local_port (5455): Local port which the container attaches to. Default 5455
@@ -58,7 +59,12 @@ class ContainerCreate:
                     },
                     mem_limit='9g',
                     volumes={
-
+                        volume_name: '/var/lib/postgresql'
+                    },
+                    environment={
+                        'POSTGRES_PASSWORD': pgpass,
+                        'POSTGRES_USER': 'postgres',
+                        'POSTGRES_DB': 'postgres'
                     },
                     name=container_name
                 )
@@ -67,7 +73,7 @@ class ContainerCreate:
 
             except docker.errors.ContainerError:
                 print("Docker exited with a non-zero status. Printing logs:")
-                print(self.db_container.lo)
+                print(self.db_container.logs())
             except docker.errors.APIError:
                 print("docker api was unable to create the container".upper())
 
